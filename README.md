@@ -18,7 +18,6 @@ Prime Palindrome check
 
 ### Objective 2 - 1D Array utilities
 Files:
-main_array.c
 arraylib.c
 arraylib.h
 
